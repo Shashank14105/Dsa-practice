@@ -10,11 +10,11 @@ This directory contains implementations of classic recursion problems in Java �
 
 
 
-- \*\*Base Case\*\* — The condition that stops recursion (prevents infinite calls).
+- **Base Case** — The condition that stops recursion (prevents infinite calls).
 
-- \*\*Recursive Call\*\* — The function calling itself with a smaller/simpler input.
+- **Recursive Call** — The function calling itself with a smaller/simpler input.
 
-- \*\*Call Stack\*\* — Each recursive call adds a frame to the stack; deep recursion may cause `StackOverflowError`.
+- **Call Stack** — Each recursive call adds a frame to the stack; deep recursion may cause `StackOverflowError`.
 
 
 
